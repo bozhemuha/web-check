@@ -5,8 +5,8 @@ Tested on Windows with Python 3.10 and Mac with Python 3.9.3
 
 ## Running
 
-* [Windows] use `./run_win.bat`
-* [Mac] use `./run_win.sh`
+* [Windows] use `run_win.bat`
+* [Mac] use `run_win.sh`
 
 ## Configuration and logs
 
