@@ -1,0 +1,18 @@
+{
+	"timeout_global": 30,
+	"timeout_interval": 5,
+	"timeout_request": 3,
+
+	"target_list": [
+		{
+			"name": "Google",
+			"url": "https://google.com",
+			"expected_content_size": 16006
+		},
+		{
+			"name": "F-Secure",
+			"url": "https://www.f-secure.com/",
+			"expected_content_size": 210105 
+		}
+	]
+}
