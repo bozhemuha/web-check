@@ -6,7 +6,7 @@ Tested on Windows with Python 3.10 and Mac with Python 3.9.3
 ## Running
 
 * [Windows] use `run_win.bat`
-* [Mac] use `run_mac.sh`, in case of `permission denied` error, run `chmod u+x` for `run_mac.sh` and `web_check.py`
+* [Mac] use `run_mac.sh`, in case of `permission denied` error, run `chmod u+x` for `run_mac.sh` and `web_check.py` files
 
 ## Configuration and logs
 
